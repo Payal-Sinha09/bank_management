@@ -41,13 +41,17 @@ The Bank Management System is a console-based application developed in C++ that 
    
 2. **Compile the Code**:
 Use the following command to compile the C++ source files:  
+```bash
 g++ main.cpp -o bank_management_system
+```
 
 3. **Set Up the Database**:  
 Create a database using SQLite or MySQL.  
 Run the SQL scripts provided in the db folder to set up the necessary tables and schemas.  
 Run the Application:  
+```bash
 ./bank_management_system
+```
 
 ## Projects Screenshots  
 ### Login Screen
