@@ -51,17 +51,17 @@ Run the Application:
 
 ## Projects Screenshots  
 ### Login Screen
-![Login Screen]()
+![Login Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(81).png)
 ### Create Pin
-![Login Screen]()
+![Login Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(82).png)
 ### Transfer Money
-![Transfer Money]()
+![Transfer Money](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(83).png)
 ### Deposit Money
-![Deposit Screen]()
+![Deposit Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(84).png)
 ### Withdraw Money
-![Withdraw Screen]()
+![Withdraw Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(85).png)
 ### Transaction Details
-![Transaction Details Screen]()  
+![Transaction Details Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(86).png)  
 
 ## Usage
 1. **User Registration and Login**:
