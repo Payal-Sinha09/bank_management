@@ -59,9 +59,9 @@ Run the Application:
 ### Deposit Money
 ![Deposit Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(84).png)
 ### Withdraw Money
-![Withdraw Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(85).png)
+![Withdraw Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(86).png)
 ### Transaction Details
-![Transaction Details Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(86).png)  
+![Transaction Details Screen](https://github.com/Payal-Sinha09/bank_management/blob/main/images/Screenshot%20(87).png)  
 
 ## Usage
 1. **User Registration and Login**:
