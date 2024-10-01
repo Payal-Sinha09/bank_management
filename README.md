@@ -50,6 +50,18 @@ Run the Application:
 ./bank_management_system
 
 ## Projects Screenshots  
+### Login Screen
+![Login Screen]()
+### Create Pin
+![Login Screen]()
+### Transfer Money
+![Transfer Money]()
+### Deposit Money
+![Deposit Screen]()
+### Withdraw Money
+![Withdraw Screen]()
+### Transaction Details
+![Transaction Details Screen]()  
 
 ## Usage
 1. **User Registration and Login**:
